@@ -1,5 +1,5 @@
 
-function App() {
+export default function App() {
   return (
     <>
       <p>klk</p>
@@ -7,4 +7,3 @@ function App() {
   )  
 }
 
-export default App;
